@@ -13,4 +13,4 @@
 - [x] เมื่อกด reset แล้วจะไม่สามมารถกดปุ่ม submit ได้ในหน้าเฉลยจนกว่าจะเริ่มเกมครั้งใหม่
 
 
-## Demo Link :https://youtu.be/cwk11ExLPFU
+## Demo Link :https://youtu.be/wZRP0d805G8
