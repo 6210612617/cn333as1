@@ -64,7 +64,6 @@ class MainActivity : AppCompatActivity() {
             btnTryAgain.text = "Try Again"
             btnSubmit.setEnabled(false)
             tvAns.text = "Answer is : $realAns "
-            count++
             count2++
         }
         else if((abs(dif) == 1) or (abs(dif) == 2) ){
@@ -96,6 +95,7 @@ class MainActivity : AppCompatActivity() {
             tvAns.text = "Answer is : $realAns "
             tvCount.text = "Count : $tempcount"
             btnTryAgain.text = "Next to Reset"
+            tvHint.text = " Let's Try Again"
             count2++
             btnSubmit.setEnabled(false)
         }
